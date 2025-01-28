@@ -12,7 +12,7 @@ class Loader {
         require_once WP_BOOK_PATH . 'includes/Frontend/class-shortcode.php';
         require_once WP_BOOK_PATH . 'includes/Frontend/class-widget.php';
         require_once WP_BOOK_PATH . 'includes/Meta/class-meta-box.php';
-        require_once WP_BOOK_PATH . 'includes/PostType/class-custom-post-type.php';
+        require_once WP_BOOK_PATH . 'includes/PostType/class-book-post-type.php';
         require_once WP_BOOK_PATH . 'includes/class-activator.php';
         require_once WP_BOOK_PATH . 'includes/class-deactivator.php';
         
@@ -24,6 +24,6 @@ class Loader {
         ( new Frontend\BookShortcode() )->init();
         ( new Frontend\BookWidget() )->init();
         ( new Meta\MetaBox() )->init();
-        ( new PostType\CustomPostType() )->init();
+        ( new PostType\BookPostType() )->init();
     }
 }
