@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Book\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 16:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: wp-book"
+
+#: includes/Frontend/class-book-shortcode.php:130
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A complete plugin to manage books with custom post types, taxonomies, meta "
+"boxes, and more."
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:15
+#: includes/PostType/class-book-post-type.php:16
+msgid "Add New Book"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:23
+msgid "All Books"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:26
+msgid "Author Name"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:14
+#: includes/PostType/class-book-post-type.php:28
+msgid "Book"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:24
+msgid "Book Archives"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:46
+msgid "Book Category"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:14
+msgid "Book Details"
+msgstr ""
+
+#: includes/Admin/class-admin-settings.php:14
+#: includes/Admin/class-admin-settings.php:58
+msgid "Book Settings"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:54
+msgid "Book Tag"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:13
+#: includes/PostType/class-book-post-type.php:27
+msgid "Books"
+msgstr ""
+
+#: includes/Admin/class-admin-settings.php:38
+msgid "Books Per Page"
+msgstr ""
+
+#: includes/Admin/class-admin-settings.php:30
+msgid "Currency"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:17
+msgid "Edit Book"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:30
+msgid "Edition"
+msgstr ""
+
+#. Author of the plugin
+msgid "Eleas Kanchon"
+msgstr ""
+
+#: includes/Admin/class-admin-settings.php:26
+msgid "General Settings"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:25
+msgid "Insert into book"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:18
+msgid "New Book"
+msgstr ""
+
+#: includes/Frontend/class-book-shortcode.php:131
+msgid "Next &raquo;"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:21
+msgid "No books found"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:22
+msgid "No books found in Trash"
+msgstr ""
+
+#: includes/Frontend/class-book-shortcode.php:138
+msgid "No books found."
+msgstr ""
+
+#: includes/Frontend/class-book-shortcode.php:108
+#: includes/Meta/class-book-meta-box.php:27
+msgid "Price"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:28
+msgid "Publisher"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:20
+msgid "Search Books"
+msgstr ""
+
+#: includes/Admin/class-admin-settings.php:15
+msgid "Settings"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:26
+msgid "Uploaded to this book"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:31
+msgid "URL"
+msgstr ""
+
+#: includes/PostType/class-book-post-type.php:19
+msgid "View Book"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Book"
+msgstr ""
+
+#: includes/Meta/class-book-meta-box.php:29
+msgid "Year"
+msgstr ""
